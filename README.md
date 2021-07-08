@@ -1,2 +1,2 @@
 # JsonPowerDBProject
-My first second project in JsonDB
+My Second project in JsonDB
